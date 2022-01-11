@@ -1,3 +1,3 @@
 # Demo
 
-A simple repo to test git
+A simple repo to test Git
